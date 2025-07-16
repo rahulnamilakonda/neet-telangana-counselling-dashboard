@@ -55,6 +55,12 @@ streamlit run app.py
 
 ---
 
+## Live App
+
+Streamlit App: https://rahulnamilakonda-neet-telangana-counselling-dashboar-app-qtrkak.streamlit.app/
+
+---
+
 ## Disclaimer
 
 > **Note:** These are **statistical insights** based on publicly available or shared data. They **do not guarantee admission or ranks** in any institution.
